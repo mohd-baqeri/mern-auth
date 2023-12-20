@@ -9,9 +9,9 @@ At the root first a .env file with the following variables:
 Then run the command:
   - npm install
 
-Then goto frontend folder and run the command:
+Then go to the frontend folder and run the command:
   - npm install
 
-Come back to root and run the command:
+Come back to the root and run the command:
   - npm run dev
 
